@@ -1,0 +1,29 @@
+{
+  "name": "react-native-uking-image-loader",
+  "version": "0.0.1",
+  "description": "A smart image loader for React Native app",
+  "main": "ImageLoader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/An-uking/react-native-uking-image-loader.git"
+  },
+  "keywords": [
+    "react-native",
+    "smart",
+    "image",
+    "loader",
+    "component"
+  ],
+  "author": "uking",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/An-uking/react-native-uking-image-loader/issues"
+  },
+  "homepage": "https://github.com/An-uking/react-native-uking-image-loader#readme",
+  "peerDependencies": {
+    "react-native": ">=0.40.0"
+  }
+}
